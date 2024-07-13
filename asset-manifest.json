@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wee2-LS/static/css/main.fa803d1e.css",
+    "main.js": "/wee2-LS/static/js/main.c9ee8629.js",
+    "static/js/453.b254eaad.chunk.js": "/wee2-LS/static/js/453.b254eaad.chunk.js",
+    "index.html": "/wee2-LS/index.html",
+    "main.fa803d1e.css.map": "/wee2-LS/static/css/main.fa803d1e.css.map",
+    "main.c9ee8629.js.map": "/wee2-LS/static/js/main.c9ee8629.js.map",
+    "453.b254eaad.chunk.js.map": "/wee2-LS/static/js/453.b254eaad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa803d1e.css",
+    "static/js/main.c9ee8629.js"
+  ]
+}
