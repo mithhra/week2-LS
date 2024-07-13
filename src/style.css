@@ -1,0 +1,35 @@
+.app {
+    padding: 20px;
+    
+  }
+  
+  .dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  .btn-primary{
+    margin-bottom: 13px;
+  }
+  .dark-mode .card {
+    background-color: #1e1e1e;
+    border-color: #756464;
+  }
+  
+  .dark-mode .btn-primary {
+    background-color: #6aafeb;
+    border-color: #6aafeb;
+    
+  }
+  
+  .dark-mode .btn-secondary {
+    background-color: #03dac6;
+    border-color: #03dac6;
+  }
+  
+  .dark-mode .btn-danger {
+    background-color: #cf6679;
+    border-color: #cf6679;
+  }
+  .dark-mode .card-title, .dark-mode .card-text {
+    color: #ffffff;
+  }
